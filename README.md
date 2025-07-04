@@ -8,10 +8,10 @@ Please take notes and send me details and correction to help people with this pr
 1. Have a GiHhub account. Emails can be provided to commited members.
 2. Join the [test team](https://github.com/orgs/Globasa-Team/teams/test).
 3. Setup [Prose.io](https://prose.io):
-	a. Connect your GitHub account.
+    a. Connect your GitHub account.
     b. Allow Prose access to the Globasa Team Organization. (Does it allow access just to some repo/repositories?)
 4. Edit the test repo on GitHub
-	a. You may need to switch from your personal repos to the Globasa Team organization.
+    a. You may need to switch from your personal repos to the Globasa Team organization.
     b. Choose the `prose-test` repo (or repository).
     c. Create a file or edit a test file. Do not edit `README.md` or `LICENSE`.
     d. Click the save icon ("Changes to save") on the far right.
