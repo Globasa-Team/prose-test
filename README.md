@@ -1,18 +1,22 @@
 # prose-test
-For editors to try using prose.
+For editors to try using the webapp Prose.io to edit markdown in the browser.
 
 Steps:
 
 Please take notes and send me details and correction to help people with this process. Especially people who are not technically inclined.
 
 1. Have a GiHhub account. Emails can be provided to commited members.
-2. Join the [test team](https://github.com/orgs/Globasa-Team/teams/test).
-3. Setup [Prose.io](https://prose.io):
+2. Join the Org & the team:
+   
+   1. Join Organization `globasa-team` by providing your info.
+   2. Join the [test team](https://github.com/orgs/Globasa-Team/teams/test). Is there a button to click to request it? Or do you need to be added by admin?
+  
+4. Setup [Prose.io](https://prose.io):
    
     1. Connect your GitHub account.
     2. Allow Prose access to the Globasa Team Organization. (Does it allow access just to some repo/repositories?)
    
-4. Edit the test repo on GitHub
+5. Edit the test repo on GitHub
 
     1. You may need to switch from your personal repos to the Globasa Team organization.
     2. Choose the `prose-test` repo (or repository).
