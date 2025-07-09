@@ -1,5 +1,5 @@
 # prose-test
-For editors to try using the webapp Prose.io to edit markdown in the browser.
+For editors to try using the webapp Prose.io to edit markdown files directly in the browser.
 
 Steps:
 
@@ -11,7 +11,7 @@ Please take notes and send me details and correction to help people with this pr
    1. Join Organization `globasa-team` by providing your info.
    2. Join the [test team](https://github.com/orgs/Globasa-Team/teams/test). Is there a button to click to request it? Or do you need to be added by admin?
   
-4. Setup [Prose.io](https://prose.io):
+4. Setup the [Prose.io](https://prose.io) website/webapp, which allows you to edit GitHub files directly from your web browser:
    
     1. Connect your GitHub account.
     2. Allow Prose access to the Globasa Team Organization. (Does it allow access just to some repo/repositories?)
